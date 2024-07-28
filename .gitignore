@@ -1,0 +1,10 @@
+# Ignore the config.json file
+wba-wallet.json
+
+# Ignore the target directory (used by Cargo)
+target/
+
+# Other common ignores
+*.log
+*.tmp
+.DS_Store
